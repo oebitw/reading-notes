@@ -2,7 +2,7 @@
 ## Text Editor:
 What is the **Text Editor** ?
 
-![Text Editor](https://www.psdgraphics.com/file/notepad-pencil-icon.jpg)
+![Text Editor](https://learn.perl.org/i/app_icons/Notepad-icon-free.jpg )
 
 A text editor is a software used to edit text files as the name suggest. Some Examples of text editors are:
 1. [Notepad](https://www.microsoft.com/en-us/p/notepad-for-windows-10/9nblggh4w20k?activetab=pivot:overviewtab)

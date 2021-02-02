@@ -5,6 +5,6 @@
 
 **Feel free to bookmark this to keep an eye on my project updates.**
 ## Topics:
-### 1. [Text Editor Vs Coding Editor](https://github.com/oebitw/reading-notes/blob/main)
+### 1. [Text Editor Vs Coding Editor](https://github.com/oebitw/reading-notes/blob/main/text-editor-vs-coding-editor.md)
 
 

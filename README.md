@@ -8,6 +8,6 @@
 ### 1. [Text Editor Vs Coding Editor.](https://oebitw.github.io/reading-notes/text-editor-vs-coding-editor)
 ### 2. [What is IDE ?](https://oebitw.github.io/reading-notes/IDE)
 
+### 3. [Terminal Commands.](http(s)://<oebitw>.github.io/<reading-notes>/<IDE>)
+
 ### 3. [Terminal Commands.](https://oebitw.github.io/reading-notes/terminal-commands)
-
-

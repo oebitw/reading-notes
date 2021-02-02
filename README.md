@@ -5,10 +5,10 @@
 
 **Feel free to bookmark this to keep an eye on my project updates.**
 ## Topics:
-### 1. [Text Editor Vs Coding Editor.](IDE.md)
+### 1. [Text Editor Vs Coding Editor.](https://<oebitw>.github.io/<reading-notes>/IDE.html)
 ### 2. [What is IDE ?](https://github.com/oebitw/reading-notes/blob/main/IDE.md)
 
 ### 3. [Terminal Commands.](https://github.com/oebitw/reading-notes/blob/main/terminal-commands.md)
 
 
-
+test

@@ -5,7 +5,7 @@
 
 **Feel free to bookmark this to keep an eye on my project updates.**
 ## Topics:
-### 1. [Text Editor Vs Coding Editor.](https://oebitw.github.io/reading-notes/text-editor-vs-coding-editor.html)
-### 2. [What is IDE ?](https://oebitw.github.io/reading-notes/IDE.html)
+### 1. [Text Editor Vs Coding Editor.](https://oebitw.github.io/reading-notes/text-editor-vs-coding-editor.md)
+### 2. [What is IDE ?](https://oebitw.github.io/reading-notes/IDE.md)
 
-### 3. [Terminal Commands.](https://oebitw.github.io/reading-notes/terminal-commands.html)
+### 3. [Terminal Commands.](https://oebitw.github.io/reading-notes/terminal-commands.md)

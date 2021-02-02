@@ -6,7 +6,7 @@
 **Feel free to bookmark this to keep an eye on my project updates.**
 ## Topics:
 ### 1. [Text Editor Vs Coding Editor.](https://github.com/oebitw/reading-notes/blob/main/text-editor-vs-coding-editor.md)
-### 2. [What is IDE ?]()
+### 2. [What is IDE ?](https://github.com/oebitw/reading-notes/blob/main/IDE.md)
 ### 3. [Terminal Comands.]()
 
 

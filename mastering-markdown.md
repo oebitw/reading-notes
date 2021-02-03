@@ -53,4 +53,4 @@ Format: ![Alt Text](url)
 ```
 [Link name](URL)
 ```
-For more syntax you can visit [GitHub Guides](URLhttps://guides.github.com/features/mastering-markdown/) to master Markdown.
+For more syntax you can visit [GitHub Guides](https://guides.github.com/features/mastering-markdown/) to master Markdown.

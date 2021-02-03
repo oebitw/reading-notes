@@ -50,7 +50,7 @@ After you have all the data you need to design the website you can start the des
 *  Build the Site Map
 
 
-   ![](https://balsamiq.com/assets/learn/articles/mobile-web.png)
+   ![](https://images.prismic.io/milanote/8d202269-7cb6-40aa-b697-f13ea07180a7_Site+Map+Template.png?auto=compress,format&w=2280)
   
 
 * Design the Visual hierarchy

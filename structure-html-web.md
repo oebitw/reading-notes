@@ -33,15 +33,9 @@ Building an Auto parts online store needs a design which is totally differant th
 ### Make your Design Based on : 
 When we design any website we should take the following points into consideration and design the website based on them:
 
-1. Who is the Site For? (Who is the target Audiance? )
-
-![](https://www.gosurvey.in/media/vzrla5wi/45-target-audience.jpg)
-
-2. Why People Will Visit the Website ?
-
-![](https://cdn.educba.com/academy/wp-content/uploads/2019/09/Types-of-Websites.png)
-
-3. What Information the Visitors Need in the website? 
+1. Who is the Site For? (Who is the target Audiance? ) ![](https://www.gosurvey.in/media/vzrla5wi/45-target-audience.jpg) 
+2. Why People Will Visit the Website ? ![](https://cdn.educba.com/academy/wp-content/uploads/2019/09/Types-of-Websites.png) 
+3.What Information the Visitors Need in the website? 
 
 and many other aspects.
 
@@ -49,25 +43,10 @@ After you have all the data we need to design the website we will start the desi
 
 ### Website Design Steps
 
-1. Build the Site Map
+1. Build the Site Map ![](https://images.prismic.io/milanote/8d202269-7cb6-40aa-b697-f13ea07180a7_Site+Map +Template.png?auto=compress,format&w=2280)2. Design the WireFrames![](https://balsamiq.com/assets/learn/articles/mobile-web.png)
+2. Design the Visual hierarchy![](https://alvalyn.com/wp-content/uploads/2019/08/visual-hierarchy-1024x574.jpg) note that Visual hierarchy refers to the order in which your eyes perceive what they see. It is created by adding visual contrast between the items being
+displayed. Items with higher contrast are recognized and processed first. 
+4. Designing Navigation![](https://docs.scholantis.com/download/attachments/53772295/website_nav.png?version=1&modificationDate=1482357377323&api=v2)
 
-![](https://images.prismic.io/milanote/8d202269-7cb6-40aa-b697-f13ea07180a7_Site+Map+Template.png?auto=compress,format&w=2280)
 
-2. Design the WireFrames
-
-![](https://balsamiq.com/assets/learn/articles/mobile-web.png)
-
-3. Design the Visual hierarchy
-
-![](https://alvalyn.com/wp-content/uploads/2019/08/visual-hierarchy-1024x574.jpg)
-
-note that Visual hierarchy refers to the order in which your eyes perceive what
-they see. It is created by adding visual contrast between the items being
-displayed. Items with higher contrast are recognized and processed first.
-
-4. Designing Navigation
-
-![](https://docs.scholantis.com/download/attachments/53772295/website_nav.png?version=1&modificationDate=1482357377323&api=v2)
-
-.........................................................................................................................................
 ## HTML5 Layout 

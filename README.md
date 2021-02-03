@@ -10,4 +10,6 @@
 
 ### 4. [Growth Mindset.](https://oebitw.github.io/reading-notes/growth-mindset)
 
+### 5. [Mastering Markdown.](mastering-markdown.md)
+
 

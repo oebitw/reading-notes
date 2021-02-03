@@ -1,5 +1,5 @@
 # Structure web pages with HTML
-![](https://wpnewsify.com/wp-content/uploads/2017/10/UnderConstructionPage-794x398.jpg)
+
 ![](https://www.seekpng.com/png/detail/80-803527_html5-css3-and-javascript-logos-html5-logo-png.png)
 
 In this **Blog** we will go through general **Website Design** & **HTML** fundamentals.
@@ -48,7 +48,9 @@ After you have all the data you need to design the website you can start the des
 ### Website Design Steps
 
 *  Build the Site Map ![](https://images.prismic.io/milanote/8d202269-7cb6-40aa-b697-f13ea07180a7_Site+Map +Template.png?auto=compress,format&w=2280)2. Design the WireFrames![](https://balsamiq.com/assets/learn/articles/mobile-web.png)
-* Design the Visual hierarchy![](https://alvalyn.com/wp-content/uploads/2019/08/visual-hierarchy-1024x574.jpg) note that Visual hierarchy refers to the order in which your eyes perceive what they see. It is created by adding visual contrast between the items being
+* Design the Visual hierarchy
+
+   ![](https://alvalyn.com/wp-content/uploads/2019/08/visual-hierarchy-1024x574.jpg) note that Visual hierarchy refers to the order in which your eyes perceive what they see. It is created by adding visual contrast between the items being
 displayed. Items with higher contrast are recognized and processed first. 
 
 * Designing Navigation

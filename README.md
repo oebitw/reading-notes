@@ -12,5 +12,6 @@
 
 ### 5. [Mastering Markdown.](https://oebitw.github.io/reading-notes/mastering-markdown)
 
-
 ### 6. [GitHub Pages.](https://oebitw.github.io/reading-notes/github-pages)
+
+### 7. [Git Intro.](https://oebitw.github.io/reading-notes/git-intro)

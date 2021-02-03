@@ -8,4 +8,6 @@
 
 ### 3. [Terminal Commands.](https://oebitw.github.io/reading-notes/terminal-commands)
 
-### 4. [Growth Mindset](https://oebitw.github.io/reading-notes/growth-mindset)
+### 4. [Growth Mindset.](https://oebitw.github.io/reading-notes/growth-mindset)
+
+

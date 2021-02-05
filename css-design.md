@@ -8,7 +8,7 @@ If you don't know what is **HTML** we suggest you to read our blog about it from
 After building the structure of our website using **HTML 5** Now we will **[Design](https://oebitw.github.io/reading-notes/structure-html-web)** our page using **CSS3** (Cascading Style Sheets
 ).
 
-Refering to the following picture 
+Refering to the following picture: 
 
 ![](https://lh3.googleusercontent.com/proxy/_VxxrWfZl7aEIFAZ_IpWlgXNnaT7ohs35P6h7mdm5-PKr4dk0CmjrAELnodNjAyIf_Jme3uj1oShC3nFqqPLaRtXh2xb-VxSILqt0wzMKA)
 

@@ -123,3 +123,9 @@ then we will **declare** our design be specifying the **property** we want to ch
  ```
  p {color: rgb(100,100,90);}
 ```
+This is the basic way for adding a color value to the property.
+
+CSS3 has introduced an extra value for [RGB](https://www.w3schools.com/css/css_colors_rgb.asp) colors to indicate opacity. It is known as [RGBA](https://www.w3schools.com/css/css_colors_rgb.asp), it also also allows you to specify colors as [HSL](https://www.w3schools.com/css/css_colors_hsl.asp) values,
+with an optional opacity value. It is known as [HSLA](https://www.w3schools.com/css/css_colors_hsl.asp).
+
+

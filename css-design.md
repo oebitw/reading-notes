@@ -10,7 +10,7 @@ After building the structure of our website using **HTML 5** Now we will **[Desi
 
 Refering to the following picture: 
 
-![](https://lh3.googleusercontent.com/proxy/_VxxrWfZl7aEIFAZ_IpWlgXNnaT7ohs35P6h7mdm5-PKr4dk0CmjrAELnodNjAyIf_Jme3uj1oShC3nFqqPLaRtXh2xb-VxSILqt0wzMKA)
+![](https://ariya.io/images/2013/06/decssify.png)
 
 The website page on the right hand is built using **HTML 5**, the page structure is ready and now all we need is to apply **CSS 3** and give the page a nice design to improve the user experiance and interface with the webpage.
 ## CSS 3 Basics and Fundamentals

@@ -17,4 +17,5 @@
 ### 7. [Git Intro.](https://oebitw.github.io/reading-notes/git-intro)
 ### 8. [Structure web pages with HTML.](https://oebitw.github.io/reading-notes/structure-html-web)
 ### 9. [Design web pages with CSS.](https://oebitw.github.io/reading-notes/css-design)
-### 10. [Programming with JavaScript](https://oebitw.github.io/reading-notes/js)
+### 10. [Programming with JavaScript.](https://oebitw.github.io/reading-notes/js)
+### 11. [Operators and Loops.](https://oebitw.github.io/reading-notes/operators-loops)

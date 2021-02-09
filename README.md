@@ -19,3 +19,4 @@
 ### 9. [Design web pages with CSS.](https://oebitw.github.io/reading-notes/css-design)
 ### 10. [Programming with JavaScript.](https://oebitw.github.io/reading-notes/js)
 ### 11. [Operators and Loops.](https://oebitw.github.io/reading-notes/operators-loops)
+### 12. [Javascript Functions.](https://oebitw.github.io/reading-notes/js-functions)

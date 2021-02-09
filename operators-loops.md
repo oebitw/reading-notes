@@ -86,6 +86,7 @@ alert( !true ); // false
 alert( !false); // true
 ```
 * **
+
 ## Javascript Loops
 
 ![](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/07/JavaScript-Loops.jpg)

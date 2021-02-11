@@ -3,13 +3,9 @@
 
 **Feel free to bookmark this to keep an eye on my Notes updates.**
 ## Topics:
-|Code Level|Reading Notes|
-|---|---|
-|Code Level 102|[**Code 102 Reading Notes.**](https://oebitw.github.io/reading-notes/code-102)|
-|Code Level 201|[**Code 201 Reading Notes.**](https://oebitw.github.io/reading-notes/code-201)|
-|||
 
-| Syntax      | Description |
+
+| Code Level     | Reading Notes |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Code Level 102      | [**Code 102 Reading Notes.**](https://oebitw.github.io/reading-notes/code-102)       |
+| Code Level 201   | [**Code 201 Reading Notes.**](https://oebitw.github.io/reading-notes/code-201)        |

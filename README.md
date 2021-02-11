@@ -9,4 +9,7 @@
 |Code Level 201|[**Code 201 Reading Notes.**](https://oebitw.github.io/reading-notes/code-201)|
 |||
 
-
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |

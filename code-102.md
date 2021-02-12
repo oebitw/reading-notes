@@ -1,7 +1,7 @@
 ![Logo](https://intaj.net/wp-content/uploads/2020/08/ASAC-Bilingual-1024x220.png)
 # Welcome to **Code 102 Notes**.
 ## Code 102 Topics:
-### 1. [Text Editor Vs Coding Editor.](/home/oebitw/coding/reading-notes/102/text-editor-vs-coding-editor.md)
+### 1. [Text Editor Vs Coding Editor.](https://oebitw.github.io/reading-notes/102/text-editor-vs-coding-editor)
 ### 2. [What is IDE ?](https://oebitw.github.io/reading-notes/IDE)
 
 ### 3. [Terminal Commands.](https://oebitw.github.io/reading-notes/terminal-commands)

@@ -229,55 +229,60 @@ there are more data types that will be discussed in the next blogs.
 
 ### Javascript Operators:
 
-```
-ASSIGNMENT OPERATORS
+
+* ASSIGNMENT OPERATORS
+
 Assign a value to a variable
 color = 'beige';
 The value of co 1 or is now beige.
 
 
 
-ARITHMETIC OPERATORS
+* ARITHMETIC OPERATORS
+
 Perform basic math
 area = 3 * 2;
 The value of area is now 6.
 
 
 
-STRING OPERATORS
+* STRING OPERATORS
+
 Combine two strings
 greeting= 'Hi 1 + 'Mol ly';
 The value of greeting is now Hi Molly.
 
 
 
-COMPARISON OPERATORS
+* COMPARISON OPERATORS
+
 Compare two values and return true or fa 1 se
 buy = 3 > 5;
 The value of buy is fa 1 se.
 
 
 
-LOGICAL OPERATORS
+* LOGICAL OPERATORS
+
 Combine expressions and return true or fa 1 se
 buy= (5 > 3) && (2 < 4);
 The value of buy is now true.
-```
+
 Lets Have a deeper look into Comparison and Logical Operators:
 
 There are other important comparison operators like:
 
-| Operator |Description|
-|---|---|
-|==|This operater compares two values to see if they are the same.|
-|===	 |This operator compares two values to see if they have the same type and value.|
-|!=	|This operater compares two values to see if they are not the same.|
-|!==|This operator compares two values to see if they don't have the same type and value.|
+| Operator    | Description |
+| ----------- | ----------- |
+|  ==      |     This operater compares two values to see if they are the same.     |
+|    ===	 |   This operator compares two values to see if they have the same type and value.   |
+|    !=	|   This operater compares two values to see if they are not the same.   |
+|   !==   |   This operator compares two values to see if they don't have the same type and value.   |
 
 For the Logical Operators Logical they allow you to comparethe results of more than one comparison operator.
 
 * **And , Or, Logical not operators:**
-```
+
 && (and)
 
 alert( true && true );   // true
@@ -299,9 +304,6 @@ alert( false || false ); // false
 alert( !true ); // false
 alert( !false); // true
 
-```
-
-
 ### If Statements
 
 In this section we will discuss briefly the IF and Else if Statment.
@@ -312,15 +314,19 @@ If we have more than one condition we will use else if.
 
 Lets have a look on the if statments syntax to clear the blurness.
 
-```
-if (condition1) {
+
+`if (condition1) {
   //  block of code to be executed if condition1 is true
-} else if (condition2) {
+}`
+
+ `else if (condition2) {
   //  block of code to be executed if the condition1 is false and condition2 is true
-} else {
+}`
+
+ `else {
   //  block of code to be executed if the condition1 is false and condition2 is false
-}
-```
+}`
+
 
 
 

@@ -7,17 +7,15 @@ In this Blog we will summarize the fundamentals of HTML, CSS & Javascript.
 **HTML** it's a hyper text markup language, it's used to build the structure of web pages.
 
 We start Writing our HTML Code by defining the version of HTML language that we are using in the code. In this course we are using the newest version of HTML which is HTML 5.
-```
-<!DOCTYPE html>
-```
+
 Then we will use the html tag which represents the root of an HTML document.
 ```
+<!DOCTYPE html>
+
 <html> 
 
      <head>
          <meta charset="UTF-8">
-         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-         <meta name="viewport" content="width=device-width, initial-scale=1.0">
          <title>Document</title>
      </head>
 
@@ -27,6 +25,7 @@ Then we will use the html tag which represents the root of an HTML document.
      </body>
 
 </html>
+
 ```
 html structure contains two major sections:
 * Head section:
@@ -57,6 +56,7 @@ The structural tags are the main tags used to build the web page, adding or remo
 to
 
 <h6> </h6>
+
 ```
 if we removed the h1 tag from our code, that will remove the heading that we have in our page, so it will effect the webpage presence.
 
@@ -110,6 +110,7 @@ width, height and border.
   2. Value: here we specify the change we want to have for the property.
   
 Below is an example of changig a parahraph background color:
+
 ```
 p {backgroun-color: "green"}
 
@@ -128,6 +129,7 @@ we can implement the css3 code to our webpage structure in three different ways:
    <link href="css/styles.css" type="text/css"
    rel="stylesheet" />
 </head>
+
 ```
 and this **the best practice** and the best way to implement the css code.
 
@@ -141,6 +143,7 @@ In this way you will have to write the css code again and again for each webpage
         h1 {color: rgb(255,255,255);} 
  </style>
 </head>
+
 ```
 
 * **We can also implement the CSS3 code by adding it to the HTML lines** However this is a very bad practice (inline).
@@ -157,6 +160,7 @@ now we will discuss it in details, and learn how we will select each html item:
 document.
 ```
 * {}
+
 ```
 * **Type Selector:** Matches element names.
 
@@ -168,6 +172,7 @@ or
 h2 {} for selecting the h2 header
  
 etc ...
+
  ```
 * **Class Selector:** Matches an element whose
 class attribute has a value that
@@ -188,11 +193,13 @@ After building the webpage structure using HTML and give it a nice design using 
 Javascript is a scripting language. script language it's a language that gives the cumputer a series of instructions where the computer can fellow them one by one.
 we call each individual instruction as a statment and we end the statement syntax using a semicolon.
  For example:
+
  ```
  var greeting;
  if (hourNow > 18) {
 greeting= 'Good evening';}
 document.write(greeting) ;
+
 ```
 as we can see the if function here contains an instruction for the computer whic is to write greeting = good evening if the time more than 6pm.
 
@@ -227,26 +234,30 @@ ASSIGNMENT OPERATORS
 Assign a value to a variable
 color = 'beige';
 The value of co 1 or is now beige.
-```
-```
+
+
+
 ARITHMETIC OPERATORS
 Perform basic math
 area = 3 * 2;
 The value of area is now 6.
-```
-```
+
+
+
 STRING OPERATORS
 Combine two strings
 greeting= 'Hi 1 + 'Mol ly';
 The value of greeting is now Hi Molly.
-```
-```
+
+
+
 COMPARISON OPERATORS
 Compare two values and return true or fa 1 se
 buy = 3 > 5;
 The value of buy is fa 1 se.
-```
-```
+
+
+
 LOGICAL OPERATORS
 Combine expressions and return true or fa 1 se
 buy= (5 > 3) && (2 < 4);
@@ -265,28 +276,25 @@ There are other important comparison operators like:
 
 For the Logical Operators Logical they allow you to comparethe results of more than one comparison operator.
 
-* **And operator:**
+* **And , Or, Logical not operators:**
 ```
-&&
+&& (and)
 
 alert( true && true );   // true
 alert( false && true );  // false
 alert( true && false );  // false
 alert( false && false ); // false
-```
-* **Or Operator:**
 
-```
-||
+
+
+|| (Or)
 
 alert( true || true );   // true
 alert( false || true );  // true
 alert( true || false );  // true
 alert( false || false ); // false
-```
-* **Logical not:**
-```
-!
+
+
 
 alert( !true ); // false
 alert( !false); // true

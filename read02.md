@@ -1,18 +1,16 @@
 # Basics of HTML, CSS & JS
 In this Blog we will summarize the fundamentals of HTML, CSS & Javascript.
-
-![](https://miro.medium.com/max/5120/1*l4xICbIIYlz1OTymWCoUTw.jpeg)
-
 ## HTML
 **HTML** it's a hyper text markup language, it's used to build the structure of web pages.
 
 We start Writing our HTML Code by defining the version of HTML language that we are using in the code. In this course we are using the newest version of HTML which is HTML 5.
 
 Then we will use the html tag which represents the root of an HTML document.
-```
-<!DOCTYPE html>
 
-<html> 
+
+`<!DOCTYPE html>`
+
+`<html> `
 
      <head>
          <meta charset="UTF-8">
@@ -24,9 +22,8 @@ Then we will use the html tag which represents the root of an HTML document.
 
      </body>
 
-</html>
+`</html>`
 
-```
 html structure contains two major sections:
 * Head section:
 
@@ -49,29 +46,23 @@ Let's deep inside each type to know the differences between them.
 
 The structural tags are the main tags used to build the web page, adding or removing the tag will effect the web presence. 
 * Heading tags
-```
-<h1> </h1>
-<h2> </h2>
 
-to
+    `<h1> </h1>`
 
-<h6> </h6>
-
-```
 if we removed the h1 tag from our code, that will remove the heading that we have in our page, so it will effect the webpage presence.
 
 * Paragraph tag
-```
-<p>  </p>
-```
+
+`<p>  </p>`
+
 * image tag
-```
-<img src="" alt="">
-```
+
+`<img src="" alt="">`
+
 * Anchor tag 
-```
-<a href=""></a>
-```
+
+`<a href=""></a>`
+
 and many other tags used in web page structuring.
 
 ### Semantic tags
@@ -111,10 +102,8 @@ width, height and border.
   
 Below is an example of changig a parahraph background color:
 
-```
-p {backgroun-color: "green"}
 
-```
+`p {backgroun-color: "green"}`
 
 ![](https://curriculum-content.s3.amazonaws.com/fewds/css-syntax.png)
 
@@ -124,13 +113,13 @@ we can implement the css3 code to our webpage structure in three different ways:
 
 * **External CSS: Write your code in a separate file named stylesheet.css** and **link** the file to the **HTML** index file by adding the following code to the **HTML** head:
 
-```
+
 <head>
    <link href="css/styles.css" type="text/css"
    rel="stylesheet" />
 </head>
 
-```
+
 and this **the best practice** and the best way to implement the css code.
 
 * **Internal CSS: write the css code in the html head by placing them inside a style element:** 
@@ -143,8 +132,8 @@ In this way you will have to write the css code again and again for each webpage
         h1 {color: rgb(255,255,255);} 
  </style>
 </head>
-
 ```
+
 
 * **We can also implement the CSS3 code by adding it to the HTML lines** However this is a very bad practice (inline).
 
@@ -158,22 +147,16 @@ now we will discuss it in details, and learn how we will select each html item:
 
 * **Universal Selector:** Applies to all elements in the
 document.
-```
-* {}
 
-```
+`* {}`
+
+
 * **Type Selector:** Matches element names.
 
-```
-h1 {} for selecting the biggest header
-or 
-p {} for selecting a paragraph 
-or
-h2 {} for selecting the h2 header
- 
-etc ...
 
- ```
+`h1 {}` for selecting the biggest header
+
+ 
 * **Class Selector:** Matches an element whose
 class attribute has a value that
 matches the one specified after
@@ -194,13 +177,15 @@ Javascript is a scripting language. script language it's a language that gives t
 we call each individual instruction as a statment and we end the statement syntax using a semicolon.
  For example:
 
- ```
+ 
  var greeting;
- if (hourNow > 18) {
+
+if (hourNow > 18) {
 greeting= 'Good evening';}
+
 document.write(greeting) ;
 
-```
+
 as we can see the if function here contains an instruction for the computer whic is to write greeting = good evening if the time more than 6pm.
 
 Here we have two instructions, the first instruction tells the computer that the variable greeting will equal to good evening if the time is more than 6pm and the second instruction or statment is to output the result and write it to be shown for the user.
@@ -230,40 +215,35 @@ there are more data types that will be discussed in the next blogs.
 ### Javascript Operators:
 
 
-* ASSIGNMENT OPERATORS
-
+ASSIGNMENT OPERATORS
 Assign a value to a variable
 color = 'beige';
 The value of co 1 or is now beige.
 
 
 
-* ARITHMETIC OPERATORS
-
+ARITHMETIC OPERATORS
 Perform basic math
 area = 3 * 2;
 The value of area is now 6.
 
 
 
-* STRING OPERATORS
-
+STRING OPERATORS
 Combine two strings
 greeting= 'Hi 1 + 'Mol ly';
 The value of greeting is now Hi Molly.
 
 
 
-* COMPARISON OPERATORS
-
+COMPARISON OPERATORS
 Compare two values and return true or fa 1 se
 buy = 3 > 5;
 The value of buy is fa 1 se.
 
 
 
-* LOGICAL OPERATORS
-
+LOGICAL OPERATORS
 Combine expressions and return true or fa 1 se
 buy= (5 > 3) && (2 < 4);
 The value of buy is now true.
@@ -283,26 +263,28 @@ For the Logical Operators Logical they allow you to comparethe results of more t
 
 * **And , Or, Logical not operators:**
 
-&& (and)
+`&& (and)`
 
-alert( true && true );   // true
-alert( false && true );  // false
-alert( true && false );  // false
-alert( false && false ); // false
-
-
-
-|| (Or)
-
-alert( true || true );   // true
-alert( false || true );  // true
-alert( true || false );  // true
-alert( false || false ); // false
+`alert( true && true );   // true`
+`alert( false && true );  // false`
+`alert( true && false );  // false`
+`alert( false && false ); // false`
 
 
 
-alert( !true ); // false
-alert( !false); // true
+`|| (Or)`
+
+`alert( true || true );   // true`
+`alert( false || true );  // true`
+`alert( true || false );  // true`
+`alert( false || false ); // false`
+
+
+
+`alert( !true ); // false`
+`alert( !false); // true`
+
+
 
 ### If Statements
 
@@ -317,29 +299,15 @@ Lets have a look on the if statments syntax to clear the blurness.
 
 `if (condition1) {
   //  block of code to be executed if condition1 is true
-}`
+} `
 
- `else if (condition2) {
+`else if (condition2) {
   //  block of code to be executed if the condition1 is false and condition2 is true
-}`
+}` 
 
- `else {
+`else {
   //  block of code to be executed if the condition1 is false and condition2 is false
 }`
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

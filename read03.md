@@ -119,13 +119,11 @@ switch(expression) {
 ```
 
 ### Loops
-* **For Loop**
-* **While Loop**
-* **Do while loop**
+
 #### For loop: 
 A for loop repeats until a specified condition evaluates to false.
 * For Loop Syntax:
-```
+
 for ([initialExpression]; [conditionExpression]; [incrementExpression])
 
  {
@@ -133,38 +131,43 @@ for ([initialExpression]; [conditionExpression]; [incrementExpression])
    statement
    
    } 
-  ```
+  
 
-insted of writing:
+instead of writing:
 
-```
-text += cars[0] + "<br>";
-text += cars[1] + "<br>";
-text += cars[2] + "<br>";
-text += cars[3] + "<br>";
-text += cars[4] + "<br>";
-text += cars[5] + "<br>";
 
-```
+`text += cars[0] + "<br>";`
+
+`text += cars[1] + "<br>";`
+
+`text += cars[2] + "<br>";`
+
+`text += cars[3] + "<br>";`
+
+`text += cars[4] + "<br>";`
+
+`text += cars[5] + "<br>";`
+
+
 
 you can write:
 
-```
+
 var i;
 for (i = 0; i < cars.length; i++)
  {
   text += cars[i] + "<br>";
 }
-```
+
 #### While Loop
 The while loop loops through a block of code as long as a specified condition is true.
 * **While loop syntax:**
-```
+
 while (condition)
  {
   // code block to be executed
 }
-```
+
 **Condition**:
 
 An expression evaluated before each pass through the loop. If this condition evaluates to true, statement is executed. When condition evaluates to false, execution continues with the statement after the while loop.
@@ -172,21 +175,21 @@ An expression evaluated before each pass through the loop. If this condition eva
 **statement**
 
 An optional statement that is executed as long as the condition evaluates to true. To execute multiple statements within the loop, use a block statement:
-```
+
  ({ ... }) 
- ```
+ 
  to group those statements.
 
  #### do..while Loop
  The do...while statement repeats until a specified condition evaluates to false.
 
  A do...while statement looks as follows:
-```
+
 do {
   code block to be executed
 }
 while (condition);
-```
+
 
 **Statement** is always executed once before the condition is checked.
 

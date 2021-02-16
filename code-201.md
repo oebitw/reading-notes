@@ -7,7 +7,7 @@
 | **Read 01**       | [**Introductory HTML and JavaScript.**](https://oebitw.github.io/reading-notes/html-js)       |
 | **Read 02**   | [**HTML Text, CSS Introduction, and Basic JavaScript Instructions.**](https://oebitw.github.io/reading-notes/read02)        |
 | **Read 03**   | [**HTML Lists, CSS Boxes, JS Control Flow.**](https://oebitw.github.io/reading-notes/read03)        |
-| **Read 04**   | [**HTML Links, CSS Layout, JS Functions.**]()        |
+| **Read 04**   | [**HTML Links, CSS Layout, JS Functions.**](https://oebitw.github.io/reading-notes/read04)        |
 | **Read 05**   | [**HTML Images; CSS Color & Text.**]()        |
 | **Read 06**   | [**JS Object Literals; The DOM.**]()        |
 | **Read 07**   | [**HTML Tables; JS Constructor Functions.**]()        |

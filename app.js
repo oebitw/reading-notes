@@ -14,9 +14,24 @@
 //     educationCertificate= prompt('My Education Certificate is Bachelor Degree?', 'yes or no');
 //   }
 
-let userName= prompt('What is your name?');
-while(userName !== 'omar'){
-    userName=prompt('what is your name?');
-}
+// let userName= prompt('What is your name?');
+// while(userName !== 'omar'){
+//     userName=prompt('what is your name?');
+// }
 
-  
+let hotelName = 'royal';
+
+let swimmingPool = 3;
+
+let totalRooms= 200;
+
+//filled by the receptionist
+let occupiedRooms= Number(prompt('How many occupied rooms?'));
+
+let totalParkings=100 ;
+let freeRooms= (totalRooms - occupiedRooms);
+if (occupiedRooms>=totalRooms){
+    alert('Sorry no available rooms');
+}else if (occupiedRooms<totalRooms ) {
+    alert ('There are' + freeRooms + ' available Rooms');
+}

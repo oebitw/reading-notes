@@ -9,7 +9,7 @@
 | **Read 03**   | [**HTML Lists, CSS Boxes, JS Control Flow.**](https://oebitw.github.io/reading-notes/read03)        |
 | **Read 04**   | [**HTML Links, CSS Layout, JS Functions.**](https://oebitw.github.io/reading-notes/read04)        |
 | **Read 05**   | [**HTML Images; CSS Color & Text.**](https://oebitw.github.io/reading-notes/read05)        |
-| **Read 06**   | [**JS Object Literals; The DOM.**]()        |
+| **Read 06**   | [**JS Object Literals; The DOM.**](https://oebitw.github.io/reading-notes/read06)        |
 | **Read 07**   | [**HTML Tables; JS Constructor Functions.**]()        |
 | **Read 08**   | [**More CSS Layout.**]()        |
 | **Read 09**   | [**Forms and Events.**]()        |

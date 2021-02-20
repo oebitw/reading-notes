@@ -1,7 +1,7 @@
 # Basics of HTML, CSS & JS
 In this Blog we will summarize the fundamentals of HTML, CSS & Javascript.
 
-![](https://miro.medium.com/max/5120/1*l4xICbIIYlz1OTymWCoUTw.jpeg)
+
 
 ## HTML
 **HTML** it's a hyper text markup language, it's used to build the structure of web pages.

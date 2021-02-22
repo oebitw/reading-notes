@@ -11,7 +11,7 @@
 | **Read 05**   | [**HTML Images; CSS Color & Text.**](https://oebitw.github.io/reading-notes/read05)        |
 | **Read 06**   | [**JS Object Literals; The DOM.**](https://oebitw.github.io/reading-notes/read06)        |
 | **Read 07**   | [**HTML Tables; JS Constructor Functions.**](https://oebitw.github.io/reading-notes/read07)        |
-| **Read 08**   | [**More CSS Layout.**]()        |
+| **Read 08**   | [**More CSS Layout.**](https://oebitw.github.io/reading-notes/read08)        |
 | **Read 09**   | [**Forms and Events.**]()        |
 | **Read 10**   | [**JS Debugging.**]()        |
 | **Read 11**   | [**Assorted Topics**]()        |

@@ -12,7 +12,7 @@
 | **Read 06**   | [**JS Object Literals; The DOM.**](https://oebitw.github.io/reading-notes/read06)        |
 | **Read 07**   | [**HTML Tables; JS Constructor Functions.**](https://oebitw.github.io/reading-notes/read07)        |
 | **Read 08**   | [**More CSS Layout.**](https://oebitw.github.io/reading-notes/read08)        |
-| **Read 09**   | [**Forms and Events.**]()        |
+| **Read 09**   | [**Forms and Events.**](https://oebitw.github.io/reading-notes/read08)        |
 | **Read 10**   | [**JS Debugging.**]()        |
 | **Read 11**   | [**Assorted Topics**]()        |
 | **Read 12**   | [**Docs for the HTML `<canvas>` Element & Chart.js**]()        |

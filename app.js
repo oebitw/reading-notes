@@ -29,7 +29,6 @@ let totalRooms= 200;
 let occupiedRooms= Number(prompt('How many occupied rooms?'));
 
 let totalParkings=100 ;
-let freeRooms= (totalRooms - occupiedRooms);
 if (occupiedRooms>=totalRooms){
     alert('Sorry no available rooms');
 }else if (occupiedRooms<totalRooms ) {

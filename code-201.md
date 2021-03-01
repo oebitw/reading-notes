@@ -16,7 +16,7 @@
 | **Read 10**   | [**JS Debugging.**](https://oebitw.github.io/reading-notes/read10)        |
 | **Read 11**   | [**Assorted Topics**](https://oebitw.github.io/reading-notes/read11)        |
 | **Read 12**   | [**Docs for the HTML `<canvas>` Element & Chart.js**](https://oebitw.github.io/reading-notes/read12)        |
-| **Read 13**   | [**Local Storage.**]()        |
+| **Read 13**   | [**Local Storage.**](https://oebitw.github.io/reading-notes/read13)        |
 | **Read 14-a**   | [**CSS Transforms, Transitions, and Animations.**]()        |
 | **Read 14-b**   | [**What Google Learned About Teams.**]()        |
 |
